@@ -6,9 +6,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/ritu-koli)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ritukoli)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ritukoli81@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Firefox&logoColor=white)](#)
 
 </div>
@@ -19,12 +19,12 @@
 
 ```python
 ritu = {
-    "location"     : "Delhi, India 🇮🇳",
-    "education"    : "B.Sc. (Hons.) Computer Science — Ram Lal Anand College, University of Delhi",
-    "focus"        : ["Full-Stack Development", "Agentic AI", "Edge AI & TinyML"],
-    "building_with": ["LangGraph", "LangChain", "FastAPI", "Angular", "Next.js"],
+    "location"     : "Delhi, India",
+    "education"    : "B.Sc. (Hons.) Computer Science — University of Delhi",
+    "focus"        : ["Full-Stack Development", "Agentic AI"],
+    "building_with": ["React", "Node.js", "Next.js", "LangGraph", "LangChain"],
     "currently"    : "Open to full-stack & agentic AI roles 🚀",
-    "fun_fact"     : "I debug with coffee ☕ and cardio 🏋️"
+    "fun_fact"     : "I debug with coffee ☕ - Caffeine to Code"
 }
 ```
 
@@ -69,26 +69,12 @@ ritu = {
 
 | Project | Description | Stack |
 |---|---|---|
-| 🧠 **Krishi-Sewa-AI** | Multi-agent supervisor system with weather, crop & policy agents | LangGraph · FastAPI · TypeScript |
+| 🎤 **Excel Mock Interviewer** | Multi-turn AI Excel interviewer with memory | LangChain ·React · Python · Node.js |
 | 🤖 **Persona-Adaptive Support Agent** | Customer support agent with persona detection & human escalation | LangChain · Cohere · Python |
-| 📄 **docqueryAI** | RAG-based document Q&A tool | LangChain · Pinecone · Python |
-| 🎤 **Excel Mock Interviewer** | Multi-turn AI interviewer with memory | LangChain · Gemini 1.5 Flash · Python |
-| 📦 **Inventory Management System** | Full-stack inventory app with real-time sync | React · Next.js · Firebase |
+| 🧠 **Krishi-Sewa-AI** | Multi-agent supervisor system with weather, crop & policy agents | LangGraph · MERN-stack|
+| 📄 **docqueryAI** | RAG-based document Q&A tool | LangChain · Pinecone · Python  · React  · Node.js |
+| 📦 **Inventory Management System** | Full-stack inventory app with real-time sync | React · Next.js · Firebase  · Sql |
 
----
-
-### 💼 Experience
-
-🏢 **Web Developer Intern** — *F3News* `Aug 2025 – Dec 2025`
-> Frontend & admin dashboard development
-
-🏢 **Full Stack Developer Intern** — *Tata Power-DDL* `Nov 2024 – Feb 2025`
-> Built internal Angular + Node.js + SQL Server application end-to-end
-
-🎓 **Software Engineering Fellow** — *Headstarter AI* `Jul – Sep 2024`
-> Built AI apps with Next.js, OpenAI, Pinecone & Stripe; mentored by engineers at Google, YC, Amazon & Stanford
-
----
 
 ### 📊 GitHub Stats
 
@@ -107,22 +93,16 @@ ritu = {
 
 ---
 
-### 🏆 Hackathons & Certifications
+### 🏆 Hackathons 
 
 🥇 Google Gen AI Exchange Program
 🥇 Capital One Launchpad Hackathon
 🥇 Google Cloud Agentic AI Hackathon
-📜 Python for Data Science — IBM / Coursera
-📜 JavaScript — Scaler
-
 ---
 
 ### 🌱 Currently Exploring
 
 - 🤖 **Agentic AI** — multi-agent orchestration with LangGraph
-- ⚡ **Edge AI & TinyML** — on-device intelligence
-- 🧩 **RAG pipelines** — retrieval-augmented generation at scale
-
 ---
 
 <div align="center">
